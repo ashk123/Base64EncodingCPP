@@ -1,3 +1,6 @@
+# Notic
+For Make project sure to create build Folder
+
 # Use
 For Use This Library, you dont make all files
 use include folder for "#include" Code
