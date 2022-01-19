@@ -1,0 +1,2 @@
+compile:
+	@g++ Sample/Sample.cpp $(CFLAGS) -o build/Base64.exe
